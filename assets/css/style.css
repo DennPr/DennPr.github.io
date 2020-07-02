@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 
  }
 
- @media (min-width: 576px) and (max-width: 767.98px) { 
+@media (min-width: 576px) and (max-width: 767.98px) { 
   .img-fluid {
     max-width: 50%;
   } 
@@ -473,11 +473,21 @@ section {
   display: flex;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .why-us_item {
+    flex-direction: column;
+  } 
+
+  .why-us_item img {
+    min-width: 100%;
+  }
+}
+
+/*@media (max-width: 768px) {
   .why-us_item {
     flex-direction: column;
   }
-}
+}*/
 
 .why-us_item a {
   width: 100%;
@@ -531,7 +541,9 @@ section {
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
 
-.why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
+.why-us .box:hover span, 
+.why-us .box:hover h4, 
+.why-us .box:hover p {
   color: #fff;
 }
 
