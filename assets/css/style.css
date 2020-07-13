@@ -539,6 +539,14 @@ section {
   color: rgba(255, 255, 255, 0.8);
 }
 
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  
+  .why-us .box h4 {
+    font-size: 22px;
+  }
+
+}
+
 .why-us .box p {
   color: #aaaaaa;
   font-size: 15px;
