@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   /*top: 40px;*/
 }
 
-#header > .container {
+#header .container {
   justify-content: space-between;
 }
 
