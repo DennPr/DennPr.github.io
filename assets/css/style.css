@@ -197,11 +197,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
 
-  .img-fluid { max-width: 50%; }
+  .img-fluid { max-width: 100px; }
 
   /*#header .img-slogan-mobil { display: block; } */
 
-  .img-slogan { display: none; }
+  .img-slogan { width: 240px; }
 
 }
 
