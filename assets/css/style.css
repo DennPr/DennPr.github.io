@@ -186,11 +186,9 @@ h1, h2, h3, h4, h5, h6 {
 
   .img-fluid { max-width: 70px; }
 
-  .img-slogan { max-width: 140px; }
-
   /*#header .img-slogan-mobil { display: block; }*/
 
-  /*.img-slogan { display: none; }*/
+  .img-slogan { display: none; }
 
 }
 
