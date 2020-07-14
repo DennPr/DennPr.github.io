@@ -216,10 +216,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+/*@media (min-width: 992px) and (max-width: 1199.98px) { ... }*/
 
 
-@media (min-width: 1200px) { ... }
+/*@media (min-width: 1200px) { ... }*/
 
 
 
