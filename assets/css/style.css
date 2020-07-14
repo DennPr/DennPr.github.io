@@ -186,9 +186,9 @@ h1, h2, h3, h4, h5, h6 {
 
   .img-fluid { max-width: 70px; }
 
-  #header .img-slogan-mobil { display: block; }
+  /*#header .img-slogan-mobil { display: block; }*/
 
-  .img-slogan { display: none; }
+  /*.img-slogan { display: none; }*/
 
 }
 
@@ -196,10 +196,9 @@ h1, h2, h3, h4, h5, h6 {
 
   /*.img-fluid {  max-width: 50%; }*/
 
-  #header .img-slogan-mobil { display: block; } 
+  /*#header .img-slogan-mobil { display: block; } */
 
-  .img-slogan { display: none; }
-  
+  /*.img-slogan { display: none; }*/
 
 }
 
