@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .img-slogan-mobil { display: none; }
 
-@media (max-width: 575.98px) { 
+@media (min-width: 575.98px) { 
 
   .img-fluid { max-width: 70px; }
 
