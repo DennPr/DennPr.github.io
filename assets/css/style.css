@@ -536,7 +536,7 @@ section {
   }
 }*/
 
-.why-us_item.box {
+.why-us_item a {
   width: 100%;
   display: block;
 }
