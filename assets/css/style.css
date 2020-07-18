@@ -602,11 +602,11 @@ section {
   margin-top: 20px;
 }
 
-.why-us .box:hover {
+/*.why-us .box:hover {
   background: #cda45e;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
-}
+}*/
 
 .why-us .box:hover span, 
 .why-us .box:hover h4, 
