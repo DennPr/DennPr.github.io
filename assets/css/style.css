@@ -555,7 +555,7 @@ section {
 
 .why-us_item iframe {
   /*max-width: 380px;*/
-  height: 240px;
+  height: 100%;
 }
 
 .why-us .box {
