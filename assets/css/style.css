@@ -553,10 +553,10 @@ section {
      object-fit: cover;
 }*/
 
-.why-us_item iframe {
+/*.why-us_item iframe {
   max-width: 380px;
   height: 100%;
-}
+}*/
 
 .why-us .box {
   padding: 50px 30px;
