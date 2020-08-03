@@ -508,10 +508,10 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 
-.why-us_item {
+/*.why-us_item {
   margin-bottom: 25px;
   display: flex;
-}
+}*/
 
 @media (max-width: 575.98px) {
   .why-us_item {
