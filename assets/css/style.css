@@ -541,10 +541,10 @@ section {
   display: block;
 }
 
-.why-us_item img {
+/*.why-us_item img {
   max-width: 100%;
   height: auto;
-}
+}*/
 
 /*.why-us_item img {
   width: 340px;
@@ -553,10 +553,10 @@ section {
      object-fit: cover;
 }*/
 
-/*.why-us_item iframe {
-  max-width: 380px;
-  height: 100%;
-}*/
+.why-us_item iframe {
+  /*max-width: 380px;*/
+  height: 240px;
+}
 
 .why-us .box {
   padding: 50px 30px;
