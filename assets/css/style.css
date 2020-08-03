@@ -515,13 +515,13 @@ section {
 
 @media (max-width: 575.98px) {
   .why-us_item {
-    flex-direction: column;
+    /*flex-direction: column;*/
   }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
   .why-us_item {
-    flex-direction: column;
+    /*flex-direction: column;*/
   } 
 
   .why-us_item img {
