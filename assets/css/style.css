@@ -113,19 +113,22 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 
-.video-container {
+.video-container,
+.why-us_item {
     /*overflow: hidden;*/
     position: relative;
     width:100%;
 }
 
-.video-container::after {
+.video-container::after,
+.why-us_item::after {
     padding-top: 56.25%;
     display: block;
     content: '';
 }
 
-.video-container iframe {
+.video-container iframe,
+.why-us_item iframe {
     /*position: absolute;*/
     top: 0;
     left: 0;
@@ -557,7 +560,7 @@ section {
 
 .why-us_item iframe {
   /*max-width: 380px;*/
-  height: 163px;
+  /*height: 163px;*/
 }
 
 .why-us .box {
