@@ -514,7 +514,7 @@ section {
 .why-us_item {
   margin-bottom: 25px;
   /*height: 163px;*/
-  /*display: flex;*/
+  display: flex;
 }
 
 @media (max-width: 575.98px) {
